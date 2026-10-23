@@ -9,6 +9,7 @@ A small office network built in Cisco Packet Tracer.
 - One laptop connected over Wi-Fi
 - Router-0 provides DHCP for both networks
 - WirelessRouter-0 acts as an access point
+- WiFi passphrase: office123
 
 ## Address plan
 - Wired network: 192.168.1.0/24, gateway 192.168.1.1
